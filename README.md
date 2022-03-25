@@ -5,9 +5,10 @@ Estou tendo minha primeira aula de Git
 Esta é outra linha que eu escrevi.
 
 Algumas linguagens que conheço são:
--Java
--C#
--Python
--C++
+
+Java
+C#
+Python
+C++
 
 FIM DO ARQUIVO.
